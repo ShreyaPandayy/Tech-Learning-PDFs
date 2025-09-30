@@ -14,7 +14,7 @@ The goal of this repo is to:
 
 | Topic | Format | Link |
 |-------|---------|------|
-| GitHub Packages – Complete Guide | PDF | [Download](./docs/GitHub_Packages_Guide.pdf) |
+| GitHub Packages – Complete Guide | PDF | [Download](GitHub_Packages_Guide.pdf) |
 | (Add more topics later) | PDF | (Coming soon...) |
 
 ---
